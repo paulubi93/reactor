@@ -1,0 +1,6 @@
+Todas las vocales se van a transformar en g
+vowels -> g 
+_______
+dog -> dgg
+Cat ->CgtPerro -> PgrrgPerro -> Pgrrg
+Tren -> Trgn
